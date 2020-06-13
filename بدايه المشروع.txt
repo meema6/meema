@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>MEEMAS WORLD</title>
+  </head>
+  <body>
+     
+<img src="https://instagram.fbgt1-2.fna.fbcdn.net/v/t51.2885-19/s150x150/82183330_614768722724514_1561082335623905280_n.jpg?_nc_ht=instagram.fbgt1-2.fna.fbcdn.net&_nc_ohc=knvXwdKe7EAAX8MB2wA&oh=e70d1f07c0b12828f97999e90fe5557f&oe=5F09603A" alt="MEEMA">
+<h1>MARYAM FIRAS</h1>
+
+<p>my age 21 <strong>iam here to learn :)</strong></p>
+<p>i want to lern more abut web development </p>
+<hr size="3" noshade>
+<h2><em>my books</em></h2>
+<ul>
+  <li>math</li>
+   <li>arabic</li>
+     <li>english</li>
+</ul>
+
+
+<h2>my works</h2>
+
+<table>
+    <tr>
+    <td>2019</td>
+    <td>it live</td>
+</tr>
+<tr>
+    <td>2018-2020</td>
+    <td> dantel asstant</td>
+</tr>
+</table>
+<h3>skils</h3>
+<table>
+    <tr>
+    <td>lisning</td>
+    <td>🧿🧿🧿🧿🧿</td>
+</tr>
+<tr>
+    <td>make food</td>
+    <td>🧿🧿🧿🧿</td>   
+</tr>
+</table>
+<label for=""></label>
+<ul>
+    <li>|<a href="contact.html"> contact with me </a>   </li>
+  </ul>
+  </body>
+</html>

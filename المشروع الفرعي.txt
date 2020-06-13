@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>friends</title>
+</head>
+<body>
+    <h2><em>contact with me</em></h2>
+<P>MARYAM@GMAIL.COM</P>
+<P>07726751281</P>
+<form class="" action="meema.html"></form>
+
+<label>your name</label>
+<input type="text">
+<input type="color">
+<input type="checkbox">
+<input type="date">
+<input type="submit">
+</body>
+</html>
